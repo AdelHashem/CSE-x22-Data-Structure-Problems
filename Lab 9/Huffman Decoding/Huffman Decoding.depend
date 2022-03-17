@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640185242 source:e:\faculty of engineering\level 3\term 7\data structure\lab\lab 9\huffman decoding\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

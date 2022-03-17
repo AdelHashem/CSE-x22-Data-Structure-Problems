@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639054807 source:e:\faculty of engineering\level 3\term 7\data structure\lab\lab 7\big integer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

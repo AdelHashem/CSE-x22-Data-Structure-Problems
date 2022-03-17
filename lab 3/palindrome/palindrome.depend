@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636145731 source:e:\faculty of engineering\level 3\term 7\data structure\lab\lab 3\ palindrome\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+

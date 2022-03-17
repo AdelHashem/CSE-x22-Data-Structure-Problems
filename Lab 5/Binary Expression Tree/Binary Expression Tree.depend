@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637344385 source:e:\faculty of engineering\level 3\term 7\data structure\lab\lab 5\binary expression tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
